@@ -1,6 +1,6 @@
 # Customer Sales Data ETL (Alteryx)
 
-**Project Goal**: Build an ETL workflow that cleans sales data and prepares it for Power BI/Tableau visualization.
+**Project Goal**: Build an ETL workflow that cleans sales data and prepares it for Power BI visualization.
 
 ##  Dataset Overview
 This project uses three source files to simulate a real-world sales environment:
@@ -45,4 +45,3 @@ Apply the Data Cleansing tool to:
 Save the final processed dataset as `Cleaned_Sales_Data.xlsx` or `Cleaned_Sales_Data.csv`.
 
 ---
-*Created by [HarshalGupta3011](https://github.com/HarshalGupta3011)*
