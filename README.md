@@ -1,14 +1,14 @@
 # Customer Sales Data ETL (Alteryx)
 
-🎯 **Project Goal**: Build an ETL workflow that cleans sales data and prepares it for Power BI/Tableau visualization.
+**Project Goal**: Build an ETL workflow that cleans sales data and prepares it for Power BI/Tableau visualization.
 
-## 📊 Dataset Overview
+##  Dataset Overview
 This project uses three source files to simulate a real-world sales environment:
 - **Orders.csv**: Transactional data (OrderID, CustomerID, Region, Sales, Date).
 - **Customers.csv**: Customer details (CustomerID, CustomerName, Segment).
 - **Regions.csv**: Geographical mapping (Region, Manager).
 
-## 🔧 Alteryx Workflow Steps
+##  Alteryx Workflow Steps
 
 ### Step 1: Input Data
 Load the three source CSV files into the Alteryx canvas.
